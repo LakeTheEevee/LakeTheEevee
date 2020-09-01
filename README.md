@@ -9,9 +9,9 @@
   <p> Their projects includes <a href="bit.ly/hnkr"> honkers</a> <small> (<a href="https://github.com/inkthought-labs/honkers/">GitHub repo</a>), bonkers, inkmusic, and inkbot. (All bots can be tested on their discord server <a href="https://discord.gg/GxfQh7H">here</a>.
     <p><b>Other stuff of me:<b></p>
       <p> My Discord: Lake The Eevee#0615</p>
-      <p> <a href="https://www.youtube.com/channel/UCI2oZJEpPC-bYmqnk0CAIhA"My YouTube</a></p>
-      <p> <a href="https://instagram.com/laketheeevee"My Instagram</a></p>
-      <p> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"Here's a rickroll</a></p>
+      <p> <a href="https://www.youtube.com/channel/UCI2oZJEpPC-bYmqnk0CAIhA">My YouTube</a></p>
+      <p> <a href="https://instagram.com/laketheeevee">My Instagram</a></p>
+      <p> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Here's a rickroll</a></p>
 
 <!--
 This is the default hidden stuff.
