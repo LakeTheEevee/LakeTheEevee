@@ -1,9 +1,13 @@
-<!DOCTYPE HTML>
 <header>
   <h1> Hello! I'm Lake The Eevee! </h1>
   </header>
+  <main>
+  <p> Hi! You found my GitHub account! Nice! </p>
+   <p> About me, I'm a student/ coding hobbyist. I'm using GitHub because I'm a part of <a href="https://github.com/inkthought-labs">Inkthought Labs</a>!</p>
+  <p> <b> You can join its Discord Server <a href="discord.gg/GxfQh7H"> here. </a></b>
 
 <!--
+This is the default hidden stuff.
 **LakeTheEevee/LakeTheEevee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
