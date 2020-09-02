@@ -1,12 +1,10 @@
-<!DOCTYPE HTML>
-<html>
 <header>
   <h1> Hello! I'm Lake The Eevee! </h1>
   </header>
   <main>
   <p> Hi! You found my GitHub account! Nice! </p>
-   <p> About me, I'm a student/coding hobbyist. I'm using GitHub because I'm a part of <a href="https://github.com/inkthought-labs">Inkthought Labs</a>!</p>
-  <p> Their projects includes <a href="https://bit.ly/hnkr"> honkers</a> <small> (<a href="https://github.com/inkthought-labs/honkers/">GitHub repo</a>), bonkers, inkmusic, and inkbot. (All bots can be tested on their discord server <a href="https://discord.gg/GxfQh7H">here</a>.
+   <p> About me, I'm a student/coding hobbyist. I'm using GitHub because I'm a part of <a href="https://github.com/inkthought-labs"><italics>inkthought labs</italics></a>!</p>
+  <p> Their projects includes <a href="https://bit.ly/hnkr"> honkers</a> <small> (<a href="https://github.com/inkthought-labs/honkers/">GitHub repo</a>), bonkers, inkmusic, and inkbot. (All bots can be tested on their discord server <a href="https://discord.gg/GxfQh7H">here</a>.)
     <p><b>Other stuff of me:<b></p>
       <p> My Discord: Lake The Eevee#0615</p>
       <p> <a href="https://www.youtube.com/channel/UCI2oZJEpPC-bYmqnk0CAIhA">My YouTube</a></p>
