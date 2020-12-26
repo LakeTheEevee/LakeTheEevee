@@ -1,15 +1,14 @@
 <header>
-  <h1> Hello! I'm Lake The Eevee! </h1>
+  <h1> Hi! I'm Lake The Eevee! </h1>
   </header>
   <main>
   <p> Hi! You found my GitHub account! Nice! </p>
-   <p> About me, I'm a student/coding hobbyist. I'm using GitHub because I'm a part of <a href="https://github.com/inkthought-labs"><italics>inkthought labs</italics></a>!</p>
-  <p> Their projects includes <a href="https://bit.ly/hnkr"> honkers</a> <small> (<a href="https://github.com/inkthought-labs/honkers/">GitHub repo</a>), bonkers, inkmusic, and inkbot. (All bots can be tested on their discord server <a href="https://discord.gg/GxfQh7H">here</a>.)
-    <p><b>Other stuff of me:<b></p>
-      <p> My Discord: Lake The Eevee#0615</p>
-      <p> <a href="https://www.youtube.com/channel/UCI2oZJEpPC-bYmqnk0CAIhA">My YouTube</a></p>
+   <p> About me, I'm a student/coding hobbyist. </p>
+    <p><b>My social media:<b></p>
+      <p> My Discord: Lake The Eevee#8584</p>
+      <p> <a href="https://twitter.com/LakeTheEevee">My Twitter</a></p>
       <p> <a href="https://instagram.com/laketheeevee">My Instagram</a></p>
-      <p> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Here's a rickroll</a></p>
+      <p> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Here's a rickroll <strong>because yes.</strong></a></p>
 
 <!--
 This is the default hidden stuff.
