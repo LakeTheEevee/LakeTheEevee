@@ -4,7 +4,7 @@
   <main>
   <p> Hi! You found my GitHub account! Nice! </p>
    <p> I'm a student/coding hobbyist. </p>
-   <p> Staff in <a href="https://inkthought.codes"inkthought labs</a> (<a href="https://github.com/inkthought"Github</a>)</p>
+   <p> Staff in <a href="https://inkthought.codes">inkthought labs</a> (<a href="https://github.com/inkthought">Github</a>)</p>
     <p><b>My social media:<b></p>
       <p> My Discord: Lake The Eevee#8584</p>
       <p> <a href="https://dsc.bio/lake"My Bio</a></p>
