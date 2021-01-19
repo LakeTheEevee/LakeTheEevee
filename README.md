@@ -6,7 +6,7 @@
    <p> I'm a student/coding hobbyist. </p>
    <p> Staff in <a href="https://inkthought.codes">inkthought labs</a> (<a href="https://github.com/inkthought">Github</a>)</p>
     <p><b>My social media:<b></p>
-      <p> My Discord: Lake The Eevee#8584</p>
+      <p> My Discord: Lake The Eevee#0615</p>
       <p> <a href="https://dsc.bio/lake"My Bio</a></p>
       <p> <a href="https://laketheeevee.me"My Website</a></p>
       <p> <a href="https://twitter.com/LakeTheEevee">My Twitter</a></p>
