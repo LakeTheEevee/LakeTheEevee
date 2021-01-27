@@ -9,8 +9,7 @@
       <p> My Discord: Lake The Eevee#0615</p>
       <p> <a href="https://dsc.bio/lake"My Bio</a></p>
       <p> <a href="https://laketheeevee.me"My Website</a></p>
-      <p> <a href="https://twitter.com/LakeTheEevee">My Twitter</a></p>
-      <p> <a href="https://instagram.com/laketheeevee">My Instagram</a></p>
+      <p> <a href="https://twitter.com/lakeeev">My Twitter</a></p>
       <p> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Here's a rickroll <b>because yes.</b></a></p>
 
 <!--
